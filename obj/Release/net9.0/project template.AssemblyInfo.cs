@@ -11,9 +11,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("project template")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db1761397e2fa56ac48810935fc2a5b1e18835b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("project template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
