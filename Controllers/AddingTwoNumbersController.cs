@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using project_template.Services;
 
+
+// This controller will handle requests related to adding two numbers and comparing them while pulling the logic from our AddingTwoNumbersService
 namespace project_template.Controllers
 {
     [ApiController]
